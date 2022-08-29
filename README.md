@@ -7,7 +7,16 @@ Podemos resumir el proceso de data visualization en dos grandes partes:
 
 Input: la información que entra
 Output: la visualización de esta información
-.
+
+
+El input: que es donde se encuentran los datos ya sea que estén organizados o no.
+Output: es la presentación de los datos de una manera visual para ayudar a retener la información.
+
+La visualización de datos sirve para reconocer patrones o encontrar más información para investigar.
+
+Los mapas, los ábacos, son ejemplos de visualización de datos.
+
+Utilizando la visualización de datos podemos organizar y mejorar el aprendizaje de datos en la era de la información.
 
 El Input es el ingreso de la información, el lago de datos que utilizaremos para graficar. Este puede venir en distintas formas, generalmente esta información la podemos clasificar como “información estructurada” o “información no estructurada”.
 
