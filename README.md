@@ -7,10 +7,31 @@ Podemos resumir el proceso de data visualization en dos grandes partes:
 
 Input: la información que entra
 Output: la visualización de esta información
+.
 
+El Input es el ingreso de la información, el lago de datos que utilizaremos para graficar. Este puede venir en distintas formas, generalmente esta información la podemos clasificar como “información estructurada” o “información no estructurada”.
+
+La información estructurada es toda aquella que esté ordenada y bien definida, lista para su procesamiento, en otras palabras, está lista para que pueda pasar a nuestra etapa de Output.
+
+La información no estructurada, en cambio, es toda aquella que no cuenta con una organización definida y requiere trabajo para su ordenamiento. Generalmente son los datos que primero necesitan registrarse antes de poder trabajarlos. Las imágenes, los textos y audios son ejemplos de información no estructurada.
+
+El Output, es nuestro producto de salida, nuestra representación visual o interpretación de la información que tomamos del input. En el mundo de la visualización de datos llamamos a nuestros productos individuales, nuestros gráficos, como “Data Viz”.
+
+Los Data Viz utilizan técnicas de la percepción humana que nos facilita el entendimiento y adhesión de la información, por esto mismo es que se nos da más sencillo entender gráficas que entender puros números o textos.
+
+Gráficas de barras
+gráfica de barras
+Gráficas de pastel
+piechart
+Gráficas de líneas
+gráfica de líneas
+
+mas informacion en:
 [Blog post de platzi](https://platzi.com/blog/visualizacion-datos/)
 
-[Florence Nightingale](https://www.youtube.com/watch?v=aluTORun4r4)
+
+
+
 
 ### Reto
 
